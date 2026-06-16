@@ -7,10 +7,6 @@
 ![TU Delft](https://img.shields.io/badge/Affiliation-TU_Delft-darkblue)
 ![Focus](https://img.shields.io/badge/Field-Maritime_Autonomy_%26_Safety-green)
 
----
-
-**Bridging the gap between law and engineering for a safer, sustainable, and autonomous maritime future.**
-
 </div>
 
 ### ⚓ Open-source Contributions
