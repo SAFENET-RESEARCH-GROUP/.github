@@ -19,7 +19,7 @@
 #### 🚀 [GNC Simulator](https://github.com/Jakendarth/GNC_simulator)
 Hosted by our research team, this repository serves as a primary hub for our Guidance, Navigation, and Control (GNC) simulation work for autonomous vessels. 
 
-📄 **Associated Publication:** 
+📄 **Associated Publications:** 
 > **Integrating rule awareness and semantic reasoning in collision-free vessel path planning**
 > *N.Kougiatsos, A. Dhyani, V.Reppa*
 > Control Engineering Practice, , Vol. 175 (2026) 107113
@@ -30,7 +30,7 @@ Hosted by our research team, this repository serves as a primary hub for our Gui
 #### 🚢 [AutoBargeSim](https://github.com/AUTOBarge/autobargesim)
 A collaborative simulation framework developed for the AUTOBarge project, focusing on the safe and autonomous navigation of inland barges through complex waterways.
 
-📄 **Associated Publication:** 
+📄 **Associated Publications:** 
 > **AUTOBargeSim: MATLAB® toolbox for the design and analysis of the guidance and control system for autonomous inland vessels**
 > *A. Dhyani, A.H. Mojaveri, C. Zhang, D. Mahipala, H.A. Tran, Y. Zhang, Z. Luo, V. Reppa*
 > IFAC-PapersOnLine, Vol. 59, Issue 22, pp. 818-823 (2025)
