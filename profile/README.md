@@ -9,7 +9,7 @@
 
 </div>
 
-### ⚓ Open-source Contributions
+### ⚓ Open-source Software Contributions
 *Our core development work and collaborative simulation frameworks driving our research forward.*
 
 #### 🚀 [GNC Simulator](https://github.com/Jakendarth/GNC_simulator)
