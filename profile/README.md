@@ -3,13 +3,13 @@
 # Safe-NET Research Group
 ### Safe Autonomous Maritime Transport | TU Delft
 
-![Maritime Tech](https://img.shields.io/badge/Research-Maritime_Autonomy-0072b2)
+![Maritime Tech](https://img.shields.io/badge/Research-Maritime_Autonomy_%26_Safety-0072b2)
 ![TU Delft](https://img.shields.io/badge/Affiliation-TU_Delft-darkblue)
-![Focus](https://img.shields.io/badge/Field-Maritime_Autonomy_%26_Safety-green)
+![Focus](https://img.shields.io/badge/Field-Maritime_Transport-green)
 
 </div>
 
-### ⚓ Open-source Software Contributions
+### ⚓ Open-source Contributions
 *Our core development work and collaborative simulation frameworks driving our research forward.*
 
 #### 🚀 [GNC Simulator](https://github.com/Jakendarth/GNC_simulator)
@@ -37,7 +37,7 @@ A collaborative simulation framework developed for the AUTOBarge project, focusi
 ---
 
 ### 📊 Open Data Collections
-As part of our commitment to open science, our research datasets, simulation results, and supplemental materials related to the PhD research in our groups are publicly accessible. 
+As part of our commitment to open science, our research datasets, simulation results, and supplemental materials are publicly accessible. 
 
 👉 **[Data accompanying the publication: Safe and resilient control for marine power and propulsion plants](https://data.4tu.nl/collections/edd0f3d9-e877-4135-bb6f-a2e5b0caed61/4)**
 
