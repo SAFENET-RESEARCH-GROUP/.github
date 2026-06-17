@@ -18,7 +18,7 @@ Hosted by our research team, this repository serves as a primary hub for our Gui
 📄 **Associated Publications:** 
 > **Integrating rule awareness and semantic reasoning in collision-free vessel path planning**
 > *N.Kougiatsos, A. Dhyani, V.Reppa*
-> Control Engineering Practice, , Vol. 175 (2026) 107113
+> Control Engineering Practice, Vol. 175 (2026) 107113
 > [Read the Paper](https://www.sciencedirect.com/science/article/pii/S0967066126003564)
 
 👉 **[Explore the GNC Simulator](https://github.com/Jakendarth/GNC_simulator)**
@@ -33,6 +33,13 @@ A collaborative simulation framework developed for the AUTOBarge project, focusi
 > [Read the Paper](https://www.sciencedirect.com/science/article/pii/S2405896325024322)
 
 👉 **[Explore AutoBargeSim](https://github.com/AUTOBarge/autobargesim)**
+
+---
+
+### 📊 Open Data Collections
+As part of our commitment to open science, our research datasets, simulation results, and supplemental materials related to the PhD research in our groups are publicly accessible. 
+
+👉 **[Data accompanying the publication: Safe and resilient control for marine power and propulsion plants](https://data.4tu.nl/collections/edd0f3d9-e877-4135-bb6f-a2e5b0caed61/4)**
 
 ---
 
