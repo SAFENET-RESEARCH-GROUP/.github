@@ -67,7 +67,3 @@ We integrate cyber-physical-human system frameworks using:
 - 💼 **LinkedIn:** [Follow our updates](https://www.linkedin.com/company/tudelft-safe-net-group)
 - 🎓 **ResearchGate:** [Our Publications](https://www.researchgate.net/lab/Safe-Autonomous-Maritime-Transport-Safe-NET-group-Vasso-Reppa)
 - 📧 **Contact:** [V.Reppa@tudelft.nl](mailto:V.Reppa@tudelft.nl)
-
-<div align="center">
-  <sub><i>Part of the ResearchLab Autonomous Shipping (RAS)</i></sub>
-</div>
